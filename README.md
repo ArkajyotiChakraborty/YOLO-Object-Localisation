@@ -10,3 +10,7 @@ Here's an Example of Object Localisation working in Backend:
 Here's the experimental results that i performed:
 
 ![image](https://user-images.githubusercontent.com/72427901/136605330-4378896c-f91e-48a9-bd5d-b8c49124f7eb.png)
+
+Also here's the link to the official paper of YOLOv3 : https://arxiv.org/pdf/1804.02767v1.pdf
+
+
